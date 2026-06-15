@@ -25,4 +25,33 @@ Deployed Cinetrix OTT web application on AWS EC2 inside a custom VPC using Apach
 http://13.127.122.141
 
 ## Screenshots
-See screenshots folder for project evidence.
+
+### VPC Created
+![VPC](vpc-created.png)
+
+### Subnet Created
+![Subnet](subnet-created.png)
+
+### Internet Gateway Attached
+![IGW](igw-attach-to-vpc.png)
+
+### Route Table Updated
+![Route](route-table-updated.png)
+
+### EC2 Launched
+![EC2](ec2-launched.png)
+
+### Cinetrix Website Live
+![Website](cinetrix-live-webpage.png)
+
+### S3 Bucket Created
+![S3](s3-bucket-created.png)
+
+### IAM Role Created
+![IAM](iam-role-created.png)
+
+### IAM Role Attached
+![IAM Attached](iam-role-attached.png)
+
+### CloudWatch Alarm
+![CloudWatch](cloudwatch-alarm.png)
